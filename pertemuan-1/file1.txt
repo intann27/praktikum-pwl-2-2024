@@ -1,2 +1,1 @@
-Ini file pertama
-Update file pertama di Branch A
+last update untuk file1.txt
